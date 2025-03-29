@@ -1,4 +1,4 @@
-package probA;
+package problem;
 
 import java.io.BufferedReader;
 
